@@ -71,3 +71,19 @@ a {
     text-align: center;
     background: #fff;
 }
+
+/* Text over project screenshots */
+
+#wrapper .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+color: #fff;
+}
+
+#wrapper:hover .text {
+visibility:visible;
+
+}
