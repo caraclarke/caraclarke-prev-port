@@ -8,6 +8,11 @@ html {
     height: 100%;
 }
 
+svg {
+  height: 50px;
+  width: 50px;
+}
+
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -46,19 +51,23 @@ html {
 /* About */
 .about-section {
     height: 100%;
-    padding-top: 150px;
-    text-align: left;
+    padding-top: 75px;
+    text-align: center;
     background: #eee;
 }
 
-.about-section h1 {
+.about-section p {
+  text-align: left;
+}
+
+.about-section .about-sub {
   text-align: center;
 }
 
 /* Projects */
 .project-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 75px;
     text-align: center;
     background: #fff;
 }
@@ -66,7 +75,7 @@ html {
 /* Connect */
 .connect-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 75px;
     text-align: center;
     background: #eee;
 }
