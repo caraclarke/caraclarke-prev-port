@@ -51,7 +51,7 @@ svg {
 /* About */
 .about-section {
     height: 100%;
-    padding-top: 75px;
+    padding-top: 100px;
     text-align: center;
     background: #eee;
 }
@@ -60,10 +60,14 @@ svg {
   text-align: left;
 }
 
+a {
+  color: #000;
+}
+
 /* Projects */
 .project-section {
     height: 100%;
-    padding-top: 75px;
+    padding-top: 100px;
     text-align: center;
     background: #fff;
 }
