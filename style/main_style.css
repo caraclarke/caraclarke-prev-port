@@ -60,22 +60,10 @@ svg {
   text-align: left;
 }
 
-.about-section .about-sub {
-  text-align: center;
-}
-
 /* Projects */
 .project-section {
     height: 100%;
     padding-top: 75px;
     text-align: center;
     background: #fff;
-}
-
-/* Connect */
-.connect-section {
-    height: 100%;
-    padding-top: 75px;
-    text-align: center;
-    background: #eee;
 }
