@@ -21,7 +21,17 @@ html {
     }
 }
 
-/* Demo Sections */
+/* Landing area */
+
+.start {
+	font-family: sans-serif; /* add more specific font */
+	font-size: 16px;
+	font-style: normal;
+	text-transform: none;
+	margin: 15px 0;
+}
+
+/* Sections */
 
 .intro-section {
     height: 100%;
