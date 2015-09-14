@@ -33,28 +33,38 @@ html {
 
 /* Sections */
 
+/* Intro */
 .intro-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background-image: url('../images/landing-background.jpg');
+      background-size: cover;
+      background-position: center;
 }
 
+/* About */
 .about-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
+    text-align: left;
     background: #eee;
 }
 
-.services-section {
+.about-section h1 {
+  text-align: center;
+}
+
+/* Projects */
+.project-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
 
-.contact-section {
+/* Connect */
+.connect-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
