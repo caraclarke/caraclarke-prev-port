@@ -93,10 +93,17 @@ a {
   color: #000;
 }
 
-/* Connect */
-.connect-section {
-    /*height: 100%;*/
+/* Services */
+/*.services-section {
     padding-top: 100px;
+    padding-bottom: 25px;
+    text-align: center;
+    background: #fff;
+}*/
+
+/* Tech Exp */
+.tech-exp-section {
+    padding-top: 50px;
     padding-bottom: 25px;
     text-align: center;
     background: #fff;
@@ -108,7 +115,7 @@ a {
     padding-top: 100px;
     padding-bottom: 25px;
     text-align: center;
-    background: #fff;
+    background: #eee;
 }
 
 /* Text over project screenshots */
@@ -124,5 +131,13 @@ color: #fff;
 
 #wrapper:hover .text {
 visibility:visible;
+}
 
+/* Connect */
+.connect-section {
+    /*height: 100%;*/
+    padding-top: 50px;
+    padding-bottom: 25px;
+    text-align: center;
+    background: #fff;
 }
