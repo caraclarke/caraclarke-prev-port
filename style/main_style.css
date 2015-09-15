@@ -92,6 +92,14 @@ a {
   color: #000;
 }
 
+/* Connect */
+.connect-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #fff;
+}
+
 /* Projects */
 .project-section {
     height: 100%;
