@@ -78,8 +78,9 @@ svg {
 
 /* About */
 .about-section {
-    height: 100%;
+    /*height: 100%;*/
     padding-top: 100px;
+    padding-bottom: 25px;
     text-align: center;
     background: #eee;
 }
@@ -94,16 +95,18 @@ a {
 
 /* Connect */
 .connect-section {
-    height: 100%;
+    /*height: 100%;*/
     padding-top: 100px;
+    padding-bottom: 25px;
     text-align: center;
     background: #fff;
 }
 
 /* Projects */
 .project-section {
-    height: 100%;
+    /*height: 100%;*/
     padding-top: 100px;
+    padding-bottom: 25px;
     text-align: center;
     background: #fff;
 }
