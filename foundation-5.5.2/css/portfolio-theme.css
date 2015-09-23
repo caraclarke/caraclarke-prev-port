@@ -122,6 +122,7 @@ body {
 .work li {
 	height: 100%;
 	overflow: hidden;
+	text-align: left;
 }
 
 hr {
