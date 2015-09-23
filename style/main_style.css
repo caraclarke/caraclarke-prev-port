@@ -5,12 +5,14 @@ body {
     font-size: 16px;
     line-height: 25px;
     color: #000;
+    text-align: center;
 }
 
 .web-dev {
   font-family: 'Arvo', Georgia, Times, serif;
   font-size: 59px;
   line-height: 70px;
+  text-align: center;
 }
 
 h1 {
@@ -62,6 +64,7 @@ svg {
 	font-style: normal;
 	text-transform: none;
 	margin: 15px 0;
+  text-align: center;
 }
 
 /* Modify button */
@@ -106,30 +109,9 @@ svg {
       background-position: center;
 }
 
-/* About */
-.about-section {
-    /*height: 100%;*/
-    padding-top: 100px;
-    padding-bottom: 25px;
-    text-align: center;
-    background: #eee;
-}
-
-.about-section p {
-  text-align: left;
-}
-
 a {
   color: #000;
 }
-
-/* Services */
-/*.services-section {
-    padding-top: 100px;
-    padding-bottom: 25px;
-    text-align: center;
-    background: #fff;
-}*/
 
 /* Tech Exp */
 .tech-exp-section {
@@ -141,7 +123,6 @@ a {
 
 /* Projects */
 .project-section {
-    /*height: 100%;*/
     padding-top: 100px;
     padding-bottom: 25px;
     text-align: center;
