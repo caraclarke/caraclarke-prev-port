@@ -4,7 +4,7 @@ body {
 }
 
 .button-group li{
-	padding-top: 3%;
+	padding: 25px 10px 10px 10px;
 }
 
 .button-group a{
