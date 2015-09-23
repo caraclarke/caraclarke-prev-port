@@ -1,5 +1,4 @@
 body {
-	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	background-color: rgba(0, 0, 0, 0.02);
 }
@@ -87,12 +86,16 @@ body {
 	padding: 50px 0 0 0;
 }
 
-.about {
-	text-align: left;
+.contact a {
+	color: #000;
 }
 
-.about h4 {
+.about {
 	text-align: center;
+}
+
+.about p {
+	text-align: left;
 }
 
 .about img{
@@ -113,7 +116,7 @@ body {
 }
 
 .work li {
-	height: 140px;
+	height: 100%;
 	overflow: hidden;
 }
 
