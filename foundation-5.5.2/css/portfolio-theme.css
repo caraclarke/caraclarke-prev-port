@@ -82,8 +82,12 @@ body {
 	}
 }
 
-.about, .work, .contact {
+.about, .work {
 	padding: 50px 0 0 0;
+}
+
+.contact {
+	padding: 50px 0 25px 0;
 }
 
 .contact a {
