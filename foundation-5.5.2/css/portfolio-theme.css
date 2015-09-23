@@ -4,10 +4,6 @@ body {
 	background-color: rgba(0, 0, 0, 0.02);
 }
 
-.button {
-	font-family: 'Raleway', Helvetica, Arial, sans-serif;
-}
-
 .button-group li{
 	padding-top: 3%;
 }
@@ -63,7 +59,7 @@ body {
 }
 
 .hero{
-	background: url("../../img/develop/template-themes/portfolio6.jpg");
+	background: url("../../images/landing-background.jpg");
 	background-size: cover;
 	box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.15);
 	height: 80%;
