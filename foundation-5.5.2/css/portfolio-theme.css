@@ -4,16 +4,16 @@ body {
 }
 
 .button-group li{
-	padding: 25px 10px 10px 10px;
+	padding: 5px;
 }
 
 .button-group a{
-	color: rgba(0, 0, 0, 1);
+	color: #000;
 	background-color: transparent;
 }
 
 .button-group a:hover {
-	color: rgba(0, 0, 0, 0.4);
+	color: #000;
 	background-color: transparent;
 }
 
@@ -68,6 +68,12 @@ body {
 	padding-top: 40%;
 	color: rgba(255, 255, 255, 1);
 	text-align: center;
+}
+
+.intro-text a {
+	margin: 10px;
+	color: #fff;
+	margin-bottom: 20px;
 }
 
 @media only screen and (min-width: 40.063em) {
