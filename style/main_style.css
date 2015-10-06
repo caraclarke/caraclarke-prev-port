@@ -9,22 +9,22 @@ body {
 }
 
 .web-dev {
-  font-family: 'Arvo', Georgia, Times, serif;
-  font-size: 59px;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-size: 60px;
   line-height: 70px;
   text-align: center;
-  /*text-shadow: 1px 1px #263238;*/
-  color: #fff;
+  text-shadow: 1px 1px #263238;
+  color: rgba(255, 255, 255, 1);
 }
 
 h1 {
-  font-family: 'Arvo', Georgia, Times, serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 45px;
   line-height: 55px;
 }
 
 h2, h3, h4 {
-  font-family: 'Arvo', Georgia, Times, serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 35px;
   line-height: 40px;
 }
