@@ -89,3 +89,10 @@ svg {
 .projects p {
   text-align: center;
 }
+
+.project-img {
+  height: auto;
+  width: 375px;
+  margin: 0 auto;
+  display: block;
+}
