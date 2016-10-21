@@ -436,6 +436,8 @@ section h3.section-subheading {
   display: inline-block;
 }
 
+#tech-exp .tech-text > p {}
+
 .columns {
   text-align: center;
   margin-top: 30px;
