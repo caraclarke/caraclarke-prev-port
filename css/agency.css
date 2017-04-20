@@ -203,19 +203,19 @@ fieldset[disabled] .btn-xl.active {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #fff
+  color: #fed136;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
-  color: #fed136;
+  color: #F9E79F;
   outline: 0
 }
 
 .navbar-default .navbar-nav>.active>a {
   border-radius: 0;
   color: #fff;
-  background-color: #fed136
+  background-color: #fed136;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -252,15 +252,16 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-  background-image: url(../img/andrew.jpg);
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  // background-image: url(../img/andrew.jpg);
+  // background-repeat: no-repeat;
+  // background-attachment: scroll;
+  // background-position: center center;
+  // -webkit-background-size: cover;
+  // -moz-background-size: cover;
+  // background-size: cover;
+  // -o-background-size: cover;
   text-align: center;
+  background-color: #222;
   color: #fff;
 }
 
